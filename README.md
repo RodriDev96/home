@@ -1,5 +1,6 @@
 
 # DIAO | Resumos Git e GitHub
+#apreder
 
 Repositório para armazenar resumos sobre Git e GitHub
 do curso Versionamento de Código co Git e GitHub da 
